@@ -1,2 +1,2 @@
-# bouncy-ball
-it is based on oscillations of the tow constraint bodies
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
